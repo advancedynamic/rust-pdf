@@ -28,11 +28,11 @@ rust-pdf = "0.1.0"
 
 ```toml
 [dependencies]
-rust-pdf = { git = "https://github.com/galihlasahido/rust-pdf.git" }
+rust-pdf = { git = "https://github.com/advancedynamic/rust-pdf.git" }
 
 # Or with a specific branch/tag
-rust-pdf = { git = "https://github.com/galihlasahido/rust-pdf.git", branch = "main" }
-rust-pdf = { git = "https://github.com/galihlasahido/rust-pdf.git", tag = "v0.1.0" }
+rust-pdf = { git = "https://github.com/advancedynamic/rust-pdf.git", branch = "main" }
+rust-pdf = { git = "https://github.com/advancedynamic/rust-pdf.git", tag = "v0.1.0" }
 ```
 
 ### From Local Path
